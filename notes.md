@@ -41,7 +41,7 @@
     - set the `background-color` property to yellow
 10. Push you changes to github
     - Make sure you are in the directory created when you cloned the project
-    - Add all changes to be commited `git add -A`
+    - Add all changes to be committed `git add -A`
     - Commit all changes with a message `git commit -m "meaningful message"`
     - Push changes to the remote repo `git push`
     - Check that your commit is visible at github.com
