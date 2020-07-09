@@ -5,3 +5,7 @@ p {
 #first_paragraph {
     color : red
 }
+
+.yellow_background {
+    background-color: yellow;
+}

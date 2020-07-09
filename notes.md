@@ -34,3 +34,14 @@
     - Add `first_paragraph` id selector to the first p tag in the HTML
     - Add a `first_paragraph` id reference in the css
     - Set the `color` property to red 
+9. Make the background of the page heading and text between span tags yellw
+    - Add `yellow_background` class selector to page heading
+    - Add `yellow_background` class selector to `span` tag in second `p` tag
+    - Add `yellow_background` class reference in the css
+    - set the `background-color` property to yellow
+10. Push you changes to github
+    - Make sure you are in the directory created when you cloned the project
+    - Add all changes to be commited `git add -A`
+    - Commit all changes with a message `git commit -m "meaningful message"`
+    - Push changes to the remote repo `git push`
+    - Check that your commit is visible at github.com
